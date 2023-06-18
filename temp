@@ -1,0 +1,3 @@
+<?php 
+define("URL","http://localhost/C:/xampp/htdocs/login%20+%20user%20management/index.php");
+?>
